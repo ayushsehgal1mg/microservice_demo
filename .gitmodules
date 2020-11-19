@@ -1,0 +1,6 @@
+[submodule "vyked"]
+	path = vyked
+	url = https://github.com/1mgOfficial/vyked.git
+[submodule "yajl"]
+	path = yajl
+	url = git://github.com/lloyd/yajl
